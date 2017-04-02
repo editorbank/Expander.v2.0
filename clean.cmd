@@ -1,0 +1,5 @@
+del "%~dp0src\Expander.log"
+del "%~dp0test\Application1\test1.conf"
+del "%~dp0test\Application1\test2.xml"
+del "%~dp0test\Application2\test1.conf"
+del "%~dp0test\Application2\test2.xml"
