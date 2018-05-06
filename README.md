@@ -8,3 +8,7 @@ Used in a large project with diverse software to configure all the applications
 
 The feature of this version in the generation of erroneous messages when you try 
 to use uninitialized variable in order to detect them.
+Sample call: 
+```
+Expander test.ini config.xml.tmpl
+```
