@@ -12,3 +12,4 @@ Sample call:
 ```bash
 Expander test.ini config.xml.tmpl
 ```
+To be created *config.xml* file in current directory.
