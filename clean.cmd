@@ -1,4 +1,4 @@
-del ".\Expander.log"
+del "%~dp0test\Expander.log"
 del "%~dp0test\Application1\*.json"
 del "%~dp0test\Application1\*.xml"
 del "%~dp0test\Application2\*.json"
