@@ -1,9 +1,9 @@
-rem /* Expander v2.0 *\
+rem /* Expander v2.1 *\
 ::CMD //----------\\""=\*\\*//*/=""//----------
 @echo off
 title %~n0
 if "%~1"=="" goto :help
-set __log__="%~dpn0.log"
+set __log__="%~n0.log"
 set __dbg__=off
 echo.>>%__log__%
 echo ---- %DATE% %TIME% Start with parameters: %* >>%__log__%
